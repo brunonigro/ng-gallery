@@ -1,0 +1,9 @@
+nav {
+    font-weight: 300;
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgba(2, 34, 78, 1);
+}
+
+.logo {
+    color: rgba(255, 255, 255, .7);
+}
